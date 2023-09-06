@@ -1,0 +1,93 @@
+.header-area,
+.banner-area {
+  background: rgb(201, 219, 226);
+}
+.nav-link-style {
+  font-size: 12px;
+}
+.nav-link-style:hover {
+  border-bottom: 2px solid black;
+}
+.nav-btn {
+  background: transparent;
+  font-size: 12px;
+}
+.nav-btn:hover {
+  background-color: black;
+  color: white;
+}
+
+.banner-title h4 {
+  font-size: 14px;
+}
+.banner-desc p,
+.company-title p,
+.review p,
+.work-desc p,
+.footer-list a,
+.footer-desc p {
+  font-size: 12px;
+}
+
+.company-area {
+  background: rgb(228, 217, 228);
+}
+.company-heading h4,
+.gudles-desc h4 {
+  font-size: 16px;
+}
+.star i,
+.gudles-desc p,
+.property-desc p,
+.card-title,
+.property-icon i,
+.property-icon p,
+.text-end p {
+  font-size: 12px;
+}
+.company-img img:hover {
+  box-shadow: 5px 5px #888888;
+}
+.work-area {
+  background: aliceblue;
+}
+.work-heading h1,
+.property-heading h1 {
+  font-size: 28px;
+}
+.gudles-icon i {
+  font-size: 36px;
+  color: wheat;
+}
+.gudles-icon {
+  position: relative;
+}
+
+.property-area {
+  background-color: beige;
+}
+.neighbor-area {
+  background: rgb(214, 233, 233);
+}
+.neighbor-img img {
+  width: 100%;
+  height: 300px;
+}
+
+.count-area,
+.featured-area {
+  background: rgb(190, 200, 211);
+}
+.footer-area {
+  background: gray;
+}
+.footer-title {
+  color: rgb(69, 14, 121);
+  font-size: 16px;
+}
+.footer-title:hover {
+  border-bottom: 2px solid rgb(69, 14, 121);
+}
+.social-icon a i {
+  color: rgb(69, 14, 121);
+}
